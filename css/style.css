@@ -1,0 +1,47 @@
+body{
+  font-family: 'Lato', sans-serif;
+}
+.banner{height: 400px;}
+.section-container.tab-content{height: 150px;}
+
+.section-container.tabs section.active .title, .section-container.tabs .section.active .title   {
+    background-color: #fff;
+    color: #aaa;
+    border-bottom: none;
+    height: 70px;
+    border-bottom: none;
+  }
+
+  .section-container.tabs section .title, .section-container.tabs .section .title {
+    background-color: #ffffff;
+    color: #aaa;
+    height: 50px;
+    border-radius: 10px 10px 0 0;
+  }
+
+  .section-container.tabs section:nth-child(2) .title {
+   margin-left: 20px;
+}
+
+.section-container.tabs section:nth-child(3) .title {
+   margin-left: 35px;
+}
+
+.section-container.tabs section .title .tab-title {
+	width: 275px;
+	display: block;
+}
+
+.section-container{
+  /*text-align: center;*/
+}
+
+.section-container.auto > section > .content img{
+  float: left;
+  margin-right: 20px;
+}
+
+.section-container.auto > section > .content{
+  float: left;
+  /*font-family: 'Lato', sans-serif;*/
+}

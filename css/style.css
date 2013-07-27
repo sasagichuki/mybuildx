@@ -6,21 +6,23 @@ body{
 
 .section-container.tabs section.active .title, .section-container.tabs .section.active .title   {
     background-color: #fff;
-    color: #aaa;
+    color: #e20c00;
     border-bottom: none;
     height: 70px;
     border-bottom: none;
   }
 
+
   .section-container.tabs section .title, .section-container.tabs .section .title {
-    background-color: #ffffff;
-    color: #aaa;
+    background-color: #07944A;
+    color: #fff;
     height: 50px;
     border-radius: 10px 10px 0 0;
   }
 
   .section-container.tabs section:nth-child(2) .title {
    margin-left: 20px;
+   /*margin-right: 50px;*/
 }
 
 .section-container.tabs section:nth-child(3) .title {
@@ -30,6 +32,13 @@ body{
 .section-container.tabs section .title .tab-title {
 	width: 275px;
 	display: block;
+  font: 20px Lato, sans-serif;
+  color: #fff;
+  font-weight: 600;  
+}
+
+.section-container.tabs section.active .title .tab-title {
+   color: #e20c00;
 }
 
 .section-container{
@@ -44,4 +53,13 @@ body{
 .section-container.auto > section > .content{
   float: left;
   /*font-family: 'Lato', sans-serif;*/
+}
+
+.section-container.tabs section h3{
+  color: #07944A;
+}
+
+footer{
+  height: 40px;
+  background: #fff;
 }

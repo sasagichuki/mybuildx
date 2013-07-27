@@ -16,6 +16,6 @@ if (!empty($_REQUEST['signed_request'])) {
 if (empty($data['page']['liked'])) {
   include 'views' . DIRECTORY_SEPARATOR . 'pre_liked.php';
 } else {
-  include 'views' . DIRECTORY_SEPARATOR . 'post_liked.php';
+  include 'views' . DIRECTORY_SEPARATOR . 'pre_liked.php';
 }
 ?>

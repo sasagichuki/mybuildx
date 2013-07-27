@@ -25,53 +25,7 @@
 			</div>
 		</div>
 
-		<!-- <div class="row">
-			<div class="section-container tabs auto " data-section>
-			  <section class="">
-			    <p class="title" data-section-title><a href="#panel1" class="tab-title tab1">Only 4499/-</a></p>
-			    <div class="content" data-section-content>
-			    	<img alt="" src="img/greatoffer.png" />
-			    	<h3>Great Special offer price</h3>
-			      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-			      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-			      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-			      consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-			      cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-			      proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-			    </div>
-			  </section>
-			  <section class="">
-			    <p class="title" data-section-title><a href="#panel2" class="tab-title">Free local TV</a></p>
-			    <div class="content" data-section-content>
-			    	<img alt="" src="img/local.png" />
-			    	<h3>Watch the best local tv free</h3>
-			      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-			      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-			      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-			      consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-			      cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-			      proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-			    </div>
-			  </section>
-			  <section class="">
-			    <p class="title" data-section-title><a href="#panel2" class="tab-title">Go Digital now</a></p>
-			    <div class="content tab-content" data-section-content>
-					<img alt="" src="img/godigital.png" />
-					<h3>Go digital with GOtv</h3>
-			      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-			      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-			      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-			      consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-			      cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-			      proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-			    </div>
-			  </section>
-			</div>	
-		</div>
-		 -->
-		<!-- <div class="row">
-			<div class="footer"></div>
-		</div> -->
+		
 	</div>
 
   <script>

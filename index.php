@@ -9,7 +9,7 @@ $liked = $signed_request['page']['liked'];
 
 <?php 
  if( $liked ):
- include 'views' . DIRECTORY_SEPARATOR . 'pre_liked.php';
+ include 'views' . DIRECTORY_SEPARATOR . 'post_liked.php';
  else :
   include 'views' . DIRECTORY_SEPARATOR . 'pre_liked.php';
  endif;
